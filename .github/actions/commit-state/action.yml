@@ -1,0 +1,34 @@
+name: Commit state
+description: Commit anything the run changed under data/ back to the repo.
+
+inputs:
+  message:
+    description: Commit message
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - shell: bash
+      run: |
+        set -euo pipefail
+        git config user.name  "diy-video-bot"
+        git config user.email "bot@users.noreply.github.com"
+        git add -A data/
+        if git diff --cached --quiet; then
+          echo "No state change to commit."
+          exit 0
+        fi
+        git commit -m "${{ inputs.message }}"
+        # Another job may have pushed while this one ran.
+        for attempt in 1 2 3 4 5; do
+          if git push; then
+            echo "Pushed on attempt $attempt."
+            exit 0
+          fi
+          echo "Push rejected, rebasing and retrying ($attempt/5)..."
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          sleep $((attempt * 3))
+        done
+        echo "Could not push state after 5 attempts." >&2
+        exit 1

@@ -1,0 +1,44 @@
+{
+  "_note": "24 patterns across 7 families. Every one obeys the channel's proven mechanic: the object is named, the RESULT never is. Placeholders: {PLURAL} lowercase plural object, {SINGULAR} lowercase singular object, {CATEGORY} a broad result category that still hides the specific payoff (planter, water feature, garden statue).",
+  "_rules": {
+    "never_name_result": true,
+    "max_emoji": 1,
+    "no_pipe": true,
+    "no_all_caps": true,
+    "no_hashtags_in_title": true,
+    "target_chars": [40, 72]
+  },
+  "patterns": [
+    {"id": "A1", "family": "imperative_save", "template": "Don't Throw Away Old {PLURAL}! Turn Them Into This! 🤯", "proven": true},
+    {"id": "A2", "family": "imperative_save", "template": "Don't Toss That Old {SINGULAR}! Watch What It Becomes 🤯"},
+    {"id": "A3", "family": "imperative_save", "template": "Stop Throwing Out Old {PLURAL} - Do This Instead 🤯"},
+    {"id": "A4", "family": "imperative_save", "template": "Never Bin an Old {SINGULAR} Again. Here's Why 🤯"},
+
+    {"id": "B1", "family": "first_person_act", "template": "I Poured Concrete Into an Old {SINGULAR} - The Result Is Genius"},
+    {"id": "B2", "family": "first_person_act", "template": "I Buried an Old {SINGULAR} in Cement. Look What Came Out 🤯"},
+    {"id": "B3", "family": "first_person_act", "template": "I Dipped an Old {SINGULAR} in Cement and Didn't Expect This"},
+    {"id": "B4", "family": "first_person_act", "template": "I Filled an Old {SINGULAR} With Concrete. Watch the End 👀"},
+
+    {"id": "C1", "family": "transformation_gap", "template": "Old {PLURAL} to Concrete {CATEGORY}: DIY You've Never Seen"},
+    {"id": "C2", "family": "transformation_gap", "template": "From Old {SINGULAR} to Solid Stone - Wait Till You See It"},
+    {"id": "C3", "family": "transformation_gap", "template": "Old {SINGULAR}, Wet Cement, and One Very Odd Result 🤯"},
+    {"id": "C4", "family": "transformation_gap", "template": "Turning an Old {SINGULAR} to Stone - The Last Step Is Wild"},
+
+    {"id": "D1", "family": "question_hook", "template": "Why Didn't Anyone Tell Me Old {PLURAL} Could Do This? 🤯"},
+    {"id": "D2", "family": "question_hook", "template": "What Happens If You Cement an Old {SINGULAR}? 🤯"},
+    {"id": "D3", "family": "question_hook", "template": "Can You Guess What This Old {SINGULAR} Turns Into? 👀"},
+    {"id": "D4", "family": "question_hook", "template": "Who Knew an Old {SINGULAR} Could End Up Like This? 🤯"},
+
+    {"id": "E1", "family": "hidden_value", "template": "That Old {SINGULAR} in Your Garage Is Worth Keeping 🤯"},
+    {"id": "E2", "family": "hidden_value", "template": "Your Old {PLURAL} Are Hiding Something. Watch 👀"},
+    {"id": "E3", "family": "hidden_value", "template": "Everyone Throws Out Old {PLURAL}. Big Mistake 🤯"},
+
+    {"id": "F1", "family": "warning_before", "template": "Before You Throw Out That Old {SINGULAR}, Watch This 🤯"},
+    {"id": "F2", "family": "warning_before", "template": "Do This With Old {PLURAL} Before You Throw Them Out"},
+    {"id": "F3", "family": "warning_before", "template": "Try This With an Old {SINGULAR} - You'll Never Bin One Again"},
+
+    {"id": "G1", "family": "reveal_tease", "template": "This Was an Old {SINGULAR} Ten Minutes Ago 🤯"},
+    {"id": "G2", "family": "reveal_tease", "template": "Nobody Believes This Started as an Old {SINGULAR} 👀"},
+    {"id": "G3", "family": "reveal_tease", "template": "An Old {SINGULAR} Went In. Something Else Came Out 🤯"}
+  ]
+}

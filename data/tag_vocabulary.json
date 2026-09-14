@@ -1,0 +1,57 @@
+{
+  "_note": "Tag pool built from vidIQ-verified volumes and per-tag scores. Ordered highest value first. The builder fills to ~480 chars from `core`, then `craft_upcycle`, then `genre`. Object-specific tags are never added - they score dead (old boot planter, straw hat craft, concrete leaf casting all verified zero/low).",
+  "core": [
+    "cement craft ideas",
+    "concrete planter ideas",
+    "concrete garden ideas",
+    "cement planter diy",
+    "diy concrete projects",
+    "concrete diy",
+    "cement diy",
+    "cement garden ideas",
+    "concrete craft ideas",
+    "concrete casting"
+  ],
+  "craft_upcycle": [
+    "upcycling ideas",
+    "upcycle ideas",
+    "garden crafts",
+    "concrete crafts",
+    "cement projects",
+    "cement craft",
+    "diy upcycling",
+    "backyard diy",
+    "outdoor diy",
+    "diy crafts",
+    "diy garden"
+  ],
+  "result_families": {
+    "planter": ["diy garden planter", "garden planter ideas", "cement flower pot", "diy planter ideas", "succulent planter", "diy concrete planter"],
+    "water_feature": ["garden water feature", "diy water feature", "backyard water feature", "diy garden fountain", "diy pond", "garden pond", "backyard pond", "water garden"],
+    "statue": ["concrete sculpture", "garden sculpture", "plaster art", "concrete statue", "garden statue"],
+    "furniture": ["concrete furniture", "diy plant stand", "concrete table diy", "outdoor furniture diy"],
+    "bowl": ["concrete bowl diy", "cement bowl", "concrete bowl", "diy concrete bowl"]
+  },
+  "genre": [
+    "diy timelapse",
+    "satisfying craft",
+    "satisfying build",
+    "no talking asmr",
+    "diy transformation",
+    "construction timelapse"
+  ],
+  "blacklist": [
+    "old boot planter",
+    "concrete leaf casting",
+    "straw hat craft",
+    "concrete garden decor",
+    "diy garden art",
+    "garden decor diy",
+    "diy garden decor",
+    "diy home decor",
+    "home decor",
+    "garden decoration",
+    "outdoor decor"
+  ],
+  "_blacklist_reason": "The 'decor' family scores 17-51 in this niche while 'craft'/'upcycle' phrasing scores 61-66. People searching here type craft and upcycling, not decor. The three object-specific entries were verified at zero volume."
+}

@@ -1,0 +1,46 @@
+{
+  "_note": "12 description shells. The structure is fixed (hook line / build detail / genre signal / one question / subscribe / exactly 3 hashtags) but the wording of every part rotates. {OBJ}=object, {RESULT}=finished piece category, {SOUNDS}=the three real sounds of this build.",
+  "patterns": [
+    {"id": "D01", "opener": "Turn an old {OBJ} into a stunning concrete {RESULT} - one of the best cement craft ideas for your garden."},
+    {"id": "D02", "opener": "An old {OBJ} and a bucket of concrete are all this easy DIY garden project takes."},
+    {"id": "D03", "opener": "This concrete {RESULT} started life as an old {OBJ} nobody wanted - here is the whole build."},
+    {"id": "D04", "opener": "Old {OBJ} to solid stone: a simple concrete DIY that costs almost nothing."},
+    {"id": "D05", "opener": "Cement craft ideas do not get much cheaper than this - one old {OBJ}, one bag of concrete."},
+    {"id": "D06", "opener": "Before you throw out an old {OBJ}, see what a coat of concrete turns it into."},
+    {"id": "D07", "opener": "A worn-out {OBJ} becomes a concrete {RESULT} in this easy DIY concrete garden project."},
+    {"id": "D08", "opener": "One of the easiest concrete garden ideas out there: cast an old {OBJ} and let it cure."},
+    {"id": "D09", "opener": "Upcycling an old {OBJ} into a concrete {RESULT} - a satisfying cement craft from start to finish."},
+    {"id": "D10", "opener": "This is what happens when an old {OBJ} meets wet concrete out in the garden."},
+    {"id": "D11", "opener": "Old {OBJ}, wet cement, a few hours of curing - and a concrete {RESULT} for the backyard."},
+    {"id": "D12", "opener": "A DIY concrete project anyone can copy: an old {OBJ} turned into garden {RESULT}."}
+  ],
+  "genre_lines": [
+    "No talking, just {SOUNDS}.",
+    "No voiceover, no music - just {SOUNDS}.",
+    "No narration at all, only {SOUNDS}.",
+    "Nobody speaks in this one. Just {SOUNDS}."
+  ],
+  "questions": [
+    "What would you turn to stone next?",
+    "Which old thing in your shed deserves this?",
+    "Would you keep this one or give it away?",
+    "What should I cast in concrete next?",
+    "Tell me the one object you would never cement.",
+    "Did you work out what I used as the mould?",
+    "Which colour should the next one be?",
+    "Better than the last one? Be honest."
+  ],
+  "subscribe_lines": [
+    "Subscribe for more concrete DIY and cement craft projects every week!",
+    "Subscribe for a new cement craft idea every week!",
+    "Subscribe for more concrete garden projects every week!",
+    "Subscribe - a new concrete DIY lands here every week!"
+  ],
+  "hashtag_sets": [
+    ["#concretediy", "#planterideas", "#upcycle"],
+    ["#concretediy", "#cementcraft", "#upcycle"],
+    ["#concretediy", "#gardendecor", "#upcycle"],
+    ["#cementcraft", "#diygarden", "#upcycling"],
+    ["#concretediy", "#gardenideas", "#diycrafts"]
+  ]
+}
