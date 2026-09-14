@@ -1,6 +1,12 @@
 {
-  "best_publish_hour_et": null,
-  "sample_size": 0,
-  "updated_at": null,
-  "notes": []
+  "best_publish_hour_et": 16,
+  "sample_size": 23,
+  "updated_at": "2026-09-14T23:24:46+00:00",
+  "notes": [],
+  "per_hour_median_views": {
+    "13": 11074.5,
+    "14": 2234,
+    "15": 5184.5,
+    "16": 48599.5
+  }
 }

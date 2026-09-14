@@ -1,9 +1,60 @@
 {
-  "pending_ideas": [],
-  "pending_message_id": null,
+  "pending_ideas": [
+    {
+      "object_singular": "plastic laundry basket",
+      "object_plural": "plastic laundry baskets",
+      "result": "stone water basin",
+      "result_category": "water_feature",
+      "tier": 1,
+      "hook": "She submerges a bright blue laundry basket upside-down into a drum of wet concrete, pushing it all the way under until bubbles stop.",
+      "why": "Large water-holding object hits the proven scale pattern (kiddie pool 644k, umbrella fountain 95k) and the submerging moment looks like total destruction of something everyone owns.",
+      "tr": "Çamaşır sepetini betonun içine batırıp bahçe havuzu yapıyor."
+    },
+    {
+      "object_singular": "mop bucket",
+      "object_plural": "mop buckets",
+      "result": "stone birdbath pedestal",
+      "result_category": "water_feature",
+      "tier": 1,
+      "hook": "She fills a wheeled yellow mop bucket to the brim with grey concrete mix, then rams a thick post down the center.",
+      "why": "Tier 1 water feature with instant recognition—the wheels and wringer make it unmistakable—and filling destroys its original purpose in three seconds.",
+      "tr": "Paspas kovasını betonla doldurup kuş banyosu yapıyor."
+    },
+    {
+      "object_singular": "soccer ball",
+      "object_plural": "soccer balls",
+      "result": "stone sphere planter",
+      "result_category": "planter",
+      "tier": 2,
+      "hook": "She dips a deflated, muddy soccer ball completely into a bucket of concrete, coating every panel and stitch.",
+      "why": "Coated objects with visible detail (seams, panels) hold 18k-29k views and a recognizable sports item creates the value-gap story instantly.",
+      "tr": "Eski futbol topunu betona batırıp taş saksı yapıyor."
+    },
+    {
+      "object_singular": "wicker picnic basket",
+      "object_plural": "wicker picnic baskets",
+      "result": "stone garden planter",
+      "result_category": "planter",
+      "tier": 2,
+      "hook": "She pours concrete directly into an old wicker basket, flooding the weave until it soaks through and drips onto the ground.",
+      "why": "The wicker texture will cast beautifully (detail retention like garments at 18k-29k) and pouring into something meant to hold food reads as irreversible damage.",
+      "tr": "Piknik sepetinin içine beton döküp bahçe saksısı yapıyor."
+    },
+    {
+      "object_singular": "floor fan cage",
+      "object_plural": "floor fan cages",
+      "result": "stone orb sculpture",
+      "result_category": "statue",
+      "tier": 2,
+      "hook": "She wraps a metal fan cage in cloth soaked in concrete, squeezing grey slurry through every wire square with her hands.",
+      "why": "The spherical wire grid is instantly recognizable and hand-squeezing wet concrete through metal creates the hard-middle moment that coated objects need to retain.",
+      "tr": "Vantilatör kafesini betonla kaplayıp taş küre yapıyor."
+    }
+  ],
+  "pending_message_id": 7,
   "last_update_id": 0,
   "queue": [],
-  "last_brief_date": null,
+  "last_brief_date": "2026-09-15",
   "busy": false,
   "rejected": []
 }
