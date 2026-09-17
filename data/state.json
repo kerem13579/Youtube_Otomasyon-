@@ -1,60 +1,60 @@
 {
   "pending_ideas": [
     {
-      "object_singular": "laundry basket",
-      "object_plural": "laundry baskets",
-      "result": "garden water basin",
+      "object_singular": "plastic storage bin",
+      "object_plural": "plastic storage bins",
+      "result": "raised koi pond",
       "result_category": "water_feature",
       "tier": 1,
-      "hook": "She flips a plastic laundry basket upside down into a tub of wet concrete, pushing it down until grey sludge oozes through every weave hole.",
-      "why": "TIER 1 water feature with the scale advantage (baskets are big, cheap, ubiquitous) and a hard middle that looks like destruction—the grid pattern will preserve beautifully and viewers will stay to see if water actually pools in it.",
-      "tr": "Çamaşır sepetini betonla kaplıyor, bahçe için su havuzu yapıyor."
+      "hook": "She tips a wheelbarrow of wet concrete directly into a cheap plastic storage bin, burying it completely.",
+      "why": "Large water feature matching the kiddie pool's 644k trajectory—recognizable household junk becomes a proper raised pond with stone walls.",
+      "tr": "Ucuz plastik saklama kutusunu beton havuza çeviriyorum."
     },
     {
       "object_singular": "garden hose",
       "object_plural": "garden hoses",
-      "result": "coiled stone fountain",
+      "result": "concrete coiled planter",
+      "result_category": "planter",
+      "tier": 2,
+      "hook": "She coils a worn rubber garden hose in wet concrete, pushing it down with both hands until only the brass fitting shows.",
+      "why": "Recognizable worn object keeping visible detail (ribbed texture, coupling threads) like successful garment videos at 18-29k views.",
+      "tr": "Eski bahçe hortumunu beton saksıya dönüştürüyorum."
+    },
+    {
+      "object_singular": "plastic laundry basket",
+      "object_plural": "plastic laundry baskets",
+      "result": "stone garden basin",
       "result_category": "water_feature",
       "tier": 1,
-      "hook": "She coils a cracked rubber garden hose into a spiral, then pours concrete directly into the center until the entire coil disappears under grey cement.",
-      "why": "TIER 1 water feature combining instant recognition (every gardener has a dead hose) with the hard irreversible middle—pouring concrete into/over the coil looks like total destruction, but the spiral shape promises a fountain payoff that will hold retention.",
-      "tr": "Eski bahçe hortumunu spiral şeklinde sarıp beton döküyor, fıskiyeli çeşme yapıyor."
+      "hook": "She pours concrete into an upside-down laundry basket, the gray slurry oozing through every hole in the grid.",
+      "why": "Large recognizable household item becomes water-holding feature—the grid pattern creates textured stone surface viewers will watch form.",
+      "tr": "Çamaşır sepetini taş bahçe çanağına çeviriyorum."
+    },
+    {
+      "object_singular": "leather belt",
+      "object_plural": "leather belts",
+      "result": "concrete wrapped bowl",
+      "result_category": "bowl",
+      "tier": 2,
+      "hook": "She wraps a cracked leather belt in tight spirals inside a bowl of wet concrete, buckle disappearing last.",
+      "why": "Worn object preserving stitching and punch holes like successful garment pieces—viewers see familiar leather texture become permanent stone.",
+      "tr": "Eski deri kemeri beton kasesine dönüştürüyorum."
     },
     {
       "object_singular": "wicker basket",
       "object_plural": "wicker baskets",
-      "result": "stone bird bath",
-      "result_category": "water_feature",
-      "tier": 1,
-      "hook": "She submerges a large woven wicker basket face-down into a bucket of concrete, holding it underwater as bubbles escape and the weave turns dark grey.",
-      "why": "TIER 1 water feature hitting the scale/water advantage—wicker is worthless when broken, the dipping moment looks violent and irreversible, and every intricate weave line will cast perfectly to hold viewers through the reveal.",
-      "tr": "Hasır sepeti betonun içine batırıp kuş banyosu yapıyor, her örgü detayı taş oluyor."
-    },
-    {
-      "object_singular": "leather jacket",
-      "object_plural": "leather jackets",
-      "result": "stone coat sculpture",
-      "result_category": "statue",
-      "tier": 2,
-      "hook": "She dips an old leather jacket with zippers and pockets into a vat of concrete, submerging sleeves-first until the whole garment sinks grey and heavy.",
-      "why": "TIER 2 coated garment that hits the proven 18k-29k view range—leather is instantly recognizable, zippers/pockets/collar provide detail retention like denim, and the dipping moment delivers the hard middle that makes viewers think she destroyed something valuable.",
-      "tr": "Eski deri ceketi betonun içine batırıyor, fermuarlar ve cepler taş heykel oluyor."
-    },
-    {
-      "object_singular": "toolbox",
-      "object_plural": "toolboxes",
-      "result": "concrete planter box",
+      "result": "stone planter with texture",
       "result_category": "planter",
       "tier": 2,
-      "hook": "She opens a rusty metal toolbox, pours concrete directly into every compartment and tray until all the small dividers flood grey, then slams the lid shut.",
-      "why": "TIER 2 because it's recognizable junk with preserved detail (handle, latch, tray slots will all cast) and the pouring-then-closing moment gives the hard irreversible middle—viewers stay wondering if those compartments actually survived as planter sections.",
-      "tr": "Paslı alet kutusunun bölmelerine beton doldurup kapağını kapatıyor, çiçek saksısı oluyor."
+      "hook": "She submerges an entire wicker basket into a bucket of concrete, handles and all, the weave instantly soaking dark.",
+      "why": "Recognizable object keeping intricate weave detail readable in stone—the full-immersion moment creates the 'she ruined that' reaction that holds retention.",
+      "tr": "Hasır sepeti dokulu taş saksıya çeviriyorum."
     }
   ],
-  "pending_message_id": 55,
+  "pending_message_id": 159,
   "last_update_id": 288095476,
   "queue": [],
-  "last_brief_date": "2026-09-16",
+  "last_brief_date": "2026-09-17",
   "busy": false,
   "rejected": []
 }
